@@ -1,6 +1,6 @@
 #input and results
-# /input_data/
-# /results/
+/input_data/
+/results/
 
 #mac specific
 /DS_Store
