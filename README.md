@@ -3,8 +3,11 @@
 ## Avtor: _________________
 
 ## Opis problema
-Kratek opis analize, kakšne so glavne zahteve in kaj je glavni cilj.
+Kratek opis analize/izziva, kakšne so glavne zahteve in kaj je glavni cilj.
 
+## Koraki analize/struktura rešitve
+Opiši korake analize, oz. strukturo rešitve, ki se nahaja v mapi ```src```:
+* ```01_```: _______________
 
 ## Vhodni podatki
 Opiši so vhodne podatke, ki so potrebni za analizo in se nahajajo v mapi ```input_data```:
@@ -16,4 +19,4 @@ Opiši so vhodne podatke, ki so potrebni za analizo in se nahajajo v mapi ```inp
 
 ## Rezultat
 Opiši izhodne podatke, oz. rezultate analize ki se nahajajo v mapi ```results```:
-* 
+* ```Rezultat 1```: _______________
