@@ -80,7 +80,18 @@ Be sure to add the package to the requirements.txt file.
 
 ---
 
-## Fill the README.md file with the data from the project
+## Taking care of the input data and results data
+
+Be sure to not incluce the input data and results data in the repository if it is too big. This will make the repository too big and will slow down the repository. Instead, use the following steps:
+
+- Create a folder called ```input_data``` in the root directory of the project
+- Create a folder called ```results_data``` in the root directory of the project
+- Add the ```input_data``` and ```results_data``` folders to the ```.gitignore``` file (Already done for you)
+
+If you really need to include the data in the repository, you can use ```lfs```. This is a bit more complicated and is not recommended. If you want to use ```lfs```, you can find more information [here](https://git-lfs.github.com/).
+
+---
+## Fill the DOCUMENTATION DATA
 
 The README.md file is used to display the project information. Template is already made for you.
 The data that you have to fill in are:
@@ -90,7 +101,6 @@ The data that you have to fill in are:
 - Project description
 - Input data
 - Output data
-
 
 ---
 
