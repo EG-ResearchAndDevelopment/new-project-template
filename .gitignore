@@ -1,0 +1,17 @@
+#input and results
+# /input_data/
+# /results/
+
+#mac specific
+/DS_Store
+
+# virtual env
+/venv/
+
+# input data types
+*.csv
+*.xlsx
+*.xls
+*.txt
+*.json
+*.xml
