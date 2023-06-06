@@ -50,7 +50,7 @@ If you are using macOS, you can use the following command:
 
     Be sure to install the requirements.txt file. it is located in the env_setup folder of the project.
 
-        pip3 install -r ./env_setup/requirements.txt
+        pip3 install -r ./env/requirements.txt
 
     If you need any more libraries, add them to the requirements.txt file and run the command again. PLEASE AVOID INSTALLING LIBRARIES MANUALLY as this might cause the requirements.txt file to be outdated - when somebody behind you will be running the repositoriy he will get unnecessary errors.
 
