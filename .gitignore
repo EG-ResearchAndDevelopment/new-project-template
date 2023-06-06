@@ -1,6 +1,6 @@
 #input and results
-/input_data/
-/results/
+# /input_data/
+# /results/
 
 #mac specific
 /DS_Store
@@ -12,6 +12,11 @@
 *.csv
 *.xlsx
 *.xls
-*.txt
+# *.txt
 *.json
 *.xml
+
+
+# ignore all jupyter notebook checkpoints
+.ipynb_checkpoints
+
